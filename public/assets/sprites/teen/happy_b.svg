@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" shape-rendering="crispEdges" width="64" height="64">
+  <!-- Tamatchi Happy Frame B (Bouncing Jump) -->
+  <rect x="5" y="1" width="6" height="1" fill="#24301f"/>
+  <rect x="3" y="2" width="10" height="1" fill="#24301f"/>
+  <rect x="2" y="3" width="12" height="6" fill="#24301f"/>
+  <!-- Happy ^ ^ Eyes -->
+  <rect x="4" y="4" width="3" height="1" fill="#9ead86"/>
+  <rect x="9" y="4" width="3" height="1" fill="#9ead86"/>
+  <!-- Open mouth -->
+  <rect x="7" y="6" width="2" height="2" fill="#9ead86"/>
+  <!-- Body bottom -->
+  <rect x="3" y="9" width="10" height="1" fill="#24301f"/>
+  <rect x="4" y="10" width="8" height="1" fill="#24301f"/>
+  <!-- Feet lifted to the sides -->
+  <rect x="2" y="10" width="2" height="2" fill="#24301f"/>
+  <rect x="12" y="10" width="2" height="2" fill="#24301f"/>
+</svg>

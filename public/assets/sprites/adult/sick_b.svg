@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" shape-rendering="crispEdges" width="64" height="64">
+  <!-- Mametchi Sick Frame B (With skull icon) -->
+  <rect x="1" y="6" width="2" height="2" fill="#24301f"/>
+  <rect x="8" y="6" width="2" height="2" fill="#24301f"/>
+  <rect x="2" y="7" width="8" height="2" fill="#24301f"/>
+  <rect x="1" y="9" width="10" height="5" fill="#24301f"/>
+  <!-- Dizzy eyes -->
+  <rect x="3" y="10" width="1" height="1" fill="#9ead86"/>
+  <rect x="7" y="10" width="1" height="1" fill="#9ead86"/>
+  <rect x="5" y="12" width="2" height="1" fill="#9ead86"/>
+  <!-- Skull on top right -->
+  <rect x="11" y="2" width="4" height="3" fill="#24301f"/>
+  <rect x="12" y="5" width="2" height="2" fill="#24301f"/>
+  <rect x="12" y="3" width="1" height="1" fill="#9ead86"/>
+  <rect x="14" y="3" width="1" height="1" fill="#9ead86"/>
+</svg>

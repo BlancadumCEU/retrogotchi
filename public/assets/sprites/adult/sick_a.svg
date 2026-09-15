@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" shape-rendering="crispEdges" width="64" height="64">
+  <!-- Mametchi Sick Frame A (Drooping ears, thermometer) -->
+  <!-- Drooping ears sideways -->
+  <rect x="2" y="3" width="3" height="2" fill="#24301f"/>
+  <rect x="11" y="3" width="3" height="2" fill="#24301f"/>
+  <rect x="3" y="5" width="10" height="2" fill="#24301f"/>
+  <rect x="2" y="7" width="12" height="6" fill="#24301f"/>
+  <!-- Sad slant eyes -->
+  <rect x="4" y="8" width="2" height="1" fill="#9ead86"/>
+  <rect x="10" y="8" width="2" height="1" fill="#9ead86"/>
+  <!-- Frown -->
+  <rect x="7" y="11" width="2" height="1" fill="#9ead86"/>
+  <rect x="6" y="12" width="1" height="1" fill="#9ead86"/>
+  <rect x="9" y="12" width="1" height="1" fill="#9ead86"/>
+  <!-- Thermometer stick in mouth -->
+  <rect x="8" y="10" width="4" height="1" fill="#9ead86"/>
+  <rect x="3" y="13" width="10" height="1" fill="#24301f"/>
+</svg>
